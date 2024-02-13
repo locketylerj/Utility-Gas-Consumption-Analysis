@@ -1,4 +1,4 @@
-![stock Market](Images/gasconsumption.jpg) 
+![gas consumption](Images/gasconsumption.jpg) 
 
 ### The primary Module will display a chart for a specific utility that is selected in the drop down menu on the first tab. 
 
